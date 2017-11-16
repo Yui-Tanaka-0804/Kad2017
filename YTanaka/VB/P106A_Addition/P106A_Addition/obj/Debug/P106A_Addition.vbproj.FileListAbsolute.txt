@@ -1,0 +1,11 @@
+c:\users\2170131.maetel\documents\visual studio 2015\Projects\P106A_Addition\P106A_Addition\bin\Debug\P106A_Addition.exe.config
+c:\users\2170131.maetel\documents\visual studio 2015\Projects\P106A_Addition\P106A_Addition\bin\Debug\P106A_Addition.exe
+c:\users\2170131.maetel\documents\visual studio 2015\Projects\P106A_Addition\P106A_Addition\bin\Debug\P106A_Addition.pdb
+c:\users\2170131.maetel\documents\visual studio 2015\Projects\P106A_Addition\P106A_Addition\bin\Debug\P106A_Addition.xml
+c:\users\2170131.maetel\documents\visual studio 2015\Projects\P106A_Addition\P106A_Addition\obj\Debug\P106A_Addition.vbprojResolveAssemblyReference.cache
+c:\users\2170131.maetel\documents\visual studio 2015\Projects\P106A_Addition\P106A_Addition\obj\Debug\P106A_Addition.Form1.resources
+c:\users\2170131.maetel\documents\visual studio 2015\Projects\P106A_Addition\P106A_Addition\obj\Debug\P106A_Addition.Resources.resources
+c:\users\2170131.maetel\documents\visual studio 2015\Projects\P106A_Addition\P106A_Addition\obj\Debug\P106A_Addition.vbproj.GenerateResource.Cache
+c:\users\2170131.maetel\documents\visual studio 2015\Projects\P106A_Addition\P106A_Addition\obj\Debug\P106A_Addition.exe
+c:\users\2170131.maetel\documents\visual studio 2015\Projects\P106A_Addition\P106A_Addition\obj\Debug\P106A_Addition.xml
+c:\users\2170131.maetel\documents\visual studio 2015\Projects\P106A_Addition\P106A_Addition\obj\Debug\P106A_Addition.pdb

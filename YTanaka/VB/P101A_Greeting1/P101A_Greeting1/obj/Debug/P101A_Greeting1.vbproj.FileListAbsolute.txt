@@ -1,0 +1,11 @@
+c:\users\2170131.maetel\documents\visual studio 2015\Projects\P101A_Greeting1\P101A_Greeting1\bin\Debug\P101A_Greeting1.exe.config
+c:\users\2170131.maetel\documents\visual studio 2015\Projects\P101A_Greeting1\P101A_Greeting1\bin\Debug\P101A_Greeting1.exe
+c:\users\2170131.maetel\documents\visual studio 2015\Projects\P101A_Greeting1\P101A_Greeting1\bin\Debug\P101A_Greeting1.pdb
+c:\users\2170131.maetel\documents\visual studio 2015\Projects\P101A_Greeting1\P101A_Greeting1\bin\Debug\P101A_Greeting1.xml
+c:\users\2170131.maetel\documents\visual studio 2015\Projects\P101A_Greeting1\P101A_Greeting1\obj\Debug\P101A_Greeting1.vbprojResolveAssemblyReference.cache
+c:\users\2170131.maetel\documents\visual studio 2015\Projects\P101A_Greeting1\P101A_Greeting1\obj\Debug\P101A_Greeting1.Form1.resources
+c:\users\2170131.maetel\documents\visual studio 2015\Projects\P101A_Greeting1\P101A_Greeting1\obj\Debug\P101A_Greeting1.Resources.resources
+c:\users\2170131.maetel\documents\visual studio 2015\Projects\P101A_Greeting1\P101A_Greeting1\obj\Debug\P101A_Greeting1.vbproj.GenerateResource.Cache
+c:\users\2170131.maetel\documents\visual studio 2015\Projects\P101A_Greeting1\P101A_Greeting1\obj\Debug\P101A_Greeting1.exe
+c:\users\2170131.maetel\documents\visual studio 2015\Projects\P101A_Greeting1\P101A_Greeting1\obj\Debug\P101A_Greeting1.xml
+c:\users\2170131.maetel\documents\visual studio 2015\Projects\P101A_Greeting1\P101A_Greeting1\obj\Debug\P101A_Greeting1.pdb

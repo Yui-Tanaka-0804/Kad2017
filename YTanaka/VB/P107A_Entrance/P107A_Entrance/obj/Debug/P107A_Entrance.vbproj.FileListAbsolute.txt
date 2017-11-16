@@ -1,0 +1,11 @@
+c:\users\2170131.maetel\documents\visual studio 2015\Projects\P107A_Entrance\P107A_Entrance\bin\Debug\P107A_Entrance.exe.config
+C:\Users\2170131.MAETEL\Documents\Visual Studio 2015\Projects\P107A_Entrance\P107A_Entrance\bin\Debug\P107A_Entrance.exe
+C:\Users\2170131.MAETEL\Documents\Visual Studio 2015\Projects\P107A_Entrance\P107A_Entrance\bin\Debug\P107A_Entrance.pdb
+C:\Users\2170131.MAETEL\Documents\Visual Studio 2015\Projects\P107A_Entrance\P107A_Entrance\bin\Debug\P107A_Entrance.xml
+C:\Users\2170131.MAETEL\Documents\Visual Studio 2015\Projects\P107A_Entrance\P107A_Entrance\obj\Debug\P107A_Entrance.vbprojResolveAssemblyReference.cache
+C:\Users\2170131.MAETEL\Documents\Visual Studio 2015\Projects\P107A_Entrance\P107A_Entrance\obj\Debug\P107A_Entrance.Form1.resources
+C:\Users\2170131.MAETEL\Documents\Visual Studio 2015\Projects\P107A_Entrance\P107A_Entrance\obj\Debug\P107A_Entrance.Resources.resources
+C:\Users\2170131.MAETEL\Documents\Visual Studio 2015\Projects\P107A_Entrance\P107A_Entrance\obj\Debug\P107A_Entrance.vbproj.GenerateResource.Cache
+C:\Users\2170131.MAETEL\Documents\Visual Studio 2015\Projects\P107A_Entrance\P107A_Entrance\obj\Debug\P107A_Entrance.exe
+C:\Users\2170131.MAETEL\Documents\Visual Studio 2015\Projects\P107A_Entrance\P107A_Entrance\obj\Debug\P107A_Entrance.xml
+C:\Users\2170131.MAETEL\Documents\Visual Studio 2015\Projects\P107A_Entrance\P107A_Entrance\obj\Debug\P107A_Entrance.pdb
