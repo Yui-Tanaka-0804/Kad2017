@@ -1,0 +1,9 @@
+上下の配置
+
+align属性の値がtopの場合
+
+align属性の値がmiddleの場合
+
+align属性の値がbottomの場合
+
+align属性自体を指定しない場合

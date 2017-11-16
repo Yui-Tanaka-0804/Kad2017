@@ -1,0 +1,6 @@
+wp16_spacer.gif  alt=""
+
+wp16_europe01s.jpg  alt="カフェの写真" 
+wp16_europe02s.jpg  alt="博物館の写真" 
+wp16_europe03s.jpg  alt="帽子売りの写真" 
+wp16_europe04s.jpg  alt="パブの写真" 

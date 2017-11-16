@@ -1,0 +1,14 @@
+wp12_spacer.gif alt=""
+
+wp12_shinchaku.gif alt="新着情報"
+
+wp12_spacer.gif alt=""
+
+wp12_shohin.gif alt="商品情報"
+
+wp12_gaiyo.gif alt="会社概要"
+
+wp12_kyujin.gif alt="求人情報"
+
+wp12_otoiawase.gif alt="お問い合わせ"
+
